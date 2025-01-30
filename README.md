@@ -8,7 +8,7 @@ Created an interactive Power BI dashboard to analyze and visualize pollution com
 
 Here are 2 images showcasing the Dashboard:
 
-<img src="https://github.com/user-attachments/assets/83f4e829-f72e-46d8-8ddd-bcb0f15633aa" width="500" />
 <img src="https://github.com/user-attachments/assets/4b7f2490-d6ec-4b7e-8b0d-11303d243a04" width="500" />
+<img src="https://github.com/user-attachments/assets/83f4e829-f72e-46d8-8ddd-bcb0f15633aa" width="500" />
 
 [See more](https://github.com/paweenachodpaseart/Data-Visualization/blob/main/Dashboard%20Research.pbix)
